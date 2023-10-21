@@ -136,13 +136,13 @@ li {
     margin-left: 20px;
 }
 
-#logo {
+.logo {
     width: 35px;
     height: 35px;
     border-radius: 50%;
 }
 
-#accept-close {
+.acceptclose {
     width: 30px;
     height: 30px;
 }
@@ -176,7 +176,7 @@ li {
     margin-top: 10px;
 }
 
-#todd-phil {
+.toddphil {
     margin-right: 34px;
 }
 
@@ -206,7 +206,7 @@ li {
     padding-bottom: 2px;
 }
 
-#text2 {
+.text2 {
     margin-left: 15px;
     margin: 0;
 }
